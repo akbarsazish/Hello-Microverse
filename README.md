@@ -1,5 +1,5 @@
 📖 About the Project 
-🛠 Built With: HTML & css
+🛠 Built With: 
 Tech Stack 
 Key Features
 🚀 Live Demo
@@ -17,13 +17,16 @@ Deployment
 🙏 Acknowledgements
 ❓ FAQ (OPTIONAL)
 📝 License
-📖 [your_project_name]
+
+
+📖 [Hello Microverse]
 Describe your project in 1 or 2 sentences.
+Hellow microverse is the firet project which I configured with Linters to check the error on using Git Hub Actions.
 
 [Hello Microverse] is a...
 
 🛠 Built With
-Tech Stack
+  HTML and CSS
 Describe the tech stack and include only the relevant sections that apply to your project.
 
 Client
@@ -74,14 +77,11 @@ Mention all of the collaborators of this project.
 👤 Author1
 
 GitHub: @akbarsazish
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
+Twitter: @AliAkbarSazish1
+LinkedIn: https://www.linkedin.com/in/ali-akbar-sazish/
 👤 Author2
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-(back to top)
+
 
 🔭 Future Features
 Describe 1 - 3 features you will add to the project.
