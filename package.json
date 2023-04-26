@@ -1,0 +1,23 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "📖 About the Project  <br />\r 🛠 Built With: <br />\r Tech Stack <br />\r Key Features<br />\r 🚀 Live Demo <br />\r 💻 Getting Started <br />\r Setup <br />\r Prerequisites <br />\r Install <br />\r Usage <br />\r Run tests <br />\r Deployment <br />\r 👥 Authors: Ali Akbar Sazish <br />\r 🔭 Future Features <br />\r 🤝 Contributing <br />\r ⭐️ Show your support <br />\r 🙏 Acknowledgements <br />\r ❓ FAQ (OPTIONAL) <br />\r 📝 License <br />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.27.5",
+    "hint": "^7.1.8",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
